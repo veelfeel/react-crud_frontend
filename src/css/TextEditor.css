@@ -1,0 +1,22 @@
+.rdw-editor-toolbar {
+  border-radius: 4px;
+  border: 1px solid #bcbcbc;
+}
+
+.rdw-editor-main {
+  height: 280px;
+  border: 1px solid #bcbcbc;
+  border-radius: 4px;
+}
+
+.public-DraftEditorPlaceholder-root {
+  padding: 12px;
+}
+
+.public-DraftStyleDefault-ltr {
+  margin: 0;
+}
+
+.public-DraftEditor-content {
+  padding: 12px;
+}

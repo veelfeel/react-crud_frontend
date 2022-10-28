@@ -1,0 +1,27 @@
+@font-face {
+  font-family: 'Value Sans Pro';
+  src: url('../fonts/ValueSansPro/ValueSansPro-Regular.woff2') format('woff2'),
+    url('../fonts/ValueSansPro/ValueSansPro-Regular.woff') format('woff');
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: 'Value Sans Pro';
+  src: url('../fonts/ValueSansPro/ValueSansPro-Medium.woff2') format('woff2'),
+    url('../fonts/ValueSansPro/ValueSansPro-Medium.woff') format('woff');
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: 'Value Sans Pro';
+  src: url('../fonts/ValueSansPro/ValueSansPro-Bold.woff2') format('woff2'),
+    url('../fonts/ValueSansPro/ValueSansPro-Bold.woff') format('woff');
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: 'Value Sans Pro';
+  src: url('../fonts/ValueSansPro/ValueSansPro-Black.woff2') format('woff2'),
+    url('../fonts/ValueSansPro/ValueSansPro-Black.woff') format('woff');
+  font-weight: 900;
+}
